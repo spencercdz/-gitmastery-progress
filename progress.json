@@ -1,5 +1,32 @@
 [
   {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786945903.916713,
+    "completed_at": 1786945905.261099,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786945601.876217,
+    "completed_at": 1786945603.232214,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786946237.91062,
+    "completed_at": 1786946239.232717,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "under-control",
     "started_at": 1786944991.605467,
     "completed_at": 1786944993.14264,
@@ -36,30 +63,10 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "stage-fright",
-    "started_at": 1786945601.876217,
-    "completed_at": 1786945603.232214,
-    "comments": [
-      "Great work! You have successfully checked in all the actors!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1786945903.916713,
-    "completed_at": 1786945905.261099,
-    "comments": [
-      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1786946237.91062,
-    "completed_at": 1786946239.232717,
-    "comments": [
-      "Great work! You have successfully fixed the attendance system!"
-    ],
+    "exercise_name": "log-and-order",
+    "started_at": 1786983824.457778,
+    "completed_at": 1786983826.302805,
+    "comments": [],
     "status": "Completed"
   }
 ]
