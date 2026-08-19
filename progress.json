@@ -9,6 +9,13 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "log-and-order",
+    "started_at": 1786983824.457778,
+    "completed_at": 1786983826.302805,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "stage-fright",
     "started_at": 1786945601.876217,
     "completed_at": 1786945603.232214,
@@ -63,10 +70,12 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "log-and-order",
-    "started_at": 1786983824.457778,
-    "completed_at": 1786983826.302805,
-    "comments": [],
-    "status": "Completed"
+    "exercise_name": "remote-control",
+    "started_at": 1787155441.161122,
+    "completed_at": 1787155496.310162,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
   }
 ]
